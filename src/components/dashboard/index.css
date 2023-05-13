@@ -1,0 +1,16 @@
+.profile-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.card-title{
+  color: #fff;
+  font-family: cursive;
+  background-color: #556955;
+  padding: 5px 10px;
+}
+body{
+  background-color:#556955;
+}
